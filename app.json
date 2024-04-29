@@ -11,6 +11,11 @@
       "description": "Name for Bot Owner",    
       "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
       "required" :true
+      },
+    "GURL": {
+      "description": " Developer support link",
+      "required" :false,    
+      "value": "https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"
     },   
      
     "WELCOME": {
